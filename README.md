@@ -8,7 +8,7 @@
 | Franklin's Tower      |           |            |          |             |       |
 | Furry Teddy Bear      | ✓         |            |          |             |       |
 | George Washington     | ✓         |            |          |             |       |
-| Mothership Connection | ✓         | x          | x         | [found](https://musescore.com/user/39593079/scores/19210966)       |       |
+| Mothership Connection | ✓         | x          | x         | [found](https://musescore.com/user/39593079/scores/19210966)       | [✓](./joe%20marcinek%20band/mothership%20connection/Mothership%20Connection%20-%20Parliament.pdf)      |
 | Shakedown Street      |           |            |          |             |       |
 | SoulD                 | ✓         | ✓          | ✓        |             |       |
 | Them Changes          |           | x          | x        | [found](https://garybadger.com/wp-content/uploads/2020/12/buddy-miles-them-changes-trumpet-tenor-sax-trombone.pdf)       | [✓](./joe%20marcinek%20band/them%20changes/Them%20Changes%20-%20Buddy%20Miles.pdf)     |
