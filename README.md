@@ -4,7 +4,7 @@
 
 | Song Name              | Recording | Transcribe! | Skeleton | Arrangement | Parts |
 |-----------------------|-----------|------------|----------|-------------|-------|
-| [Fever Dream](https://open.spotify.com/track/1orFSqPEGF5LrnP3PcKRGD?si=ea2b0f0007ec419d)           | ✓        | ✓          | ✓        | x           | [in progress](./joe%20marcinek%20band/fever%20dream/Fever%20Dream%20-%20Joe%20Marcinek%20Band.pdf)      |
+| [Fever Dream](https://open.spotify.com/track/1orFSqPEGF5LrnP3PcKRGD?si=ea2b0f0007ec419d)           | ✓        | ✓          | ✓        | x           | [✓](./joe%20marcinek%20band/fever%20dream/Fever%20Dream%20-%20Joe%20Marcinek%20Band.pdf)      |
 | [Franklin's Tower](https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ?si=ec0c3aac23114409)      |           |            |          |             |       |
 | [Furry Teddy Bear](https://open.spotify.com/track/4ATfpfAcQYzhF0Nu8Tmyhz?si=7c718132c1d742e4)      | ✓         |            |          |             |       |
 | [George Washington](https://open.spotify.com/track/0Hz1ZDCYv8l74c3McEK2wR?si=e23782b5b56d4a67)     | ✓         |            |          |             |       |
